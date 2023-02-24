@@ -104,15 +104,21 @@ How will you share the repository with your teammates?
 -- (video)
 
 What is your Git flow?
--- (diagram)
 
-Will you be using a PR review workflow? If so, consider:
---
+-- We'll use our deployment branch before merging any changes with main branch.
+
 How many people must review a PR?
+
 -- at least 2
+
 Who merges PRs?
+
 -- creator of github group project account
+
 How often will you merge?
+
 -- when there’s an approved
+
 How will you communicate that it’s time to merge?
+
 -- message confirmation and live video (if possible)
