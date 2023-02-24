@@ -1,5 +1,6 @@
 # Group Project: Team Agreement
 
+#### Made by: Malik, DaJon, Laurence, Ryan, Slava.
 
 ### Cooperation Plan
 
